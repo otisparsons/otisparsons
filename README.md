@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Otis
 
-- 👨🏻‍💻 I am looking for my first Junior Developer role 
+- 👨🏻‍💻 I am Junior Software Engineer
 - 📫 How to reach me: https://www.linkedin.com/in/otis-parsons/
 
 <h3 align="left">Languages and Tools:</h3>
