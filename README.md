@@ -1,7 +1,5 @@
 ### Hi 👋, 
 
-I'm Otis
-
 - 👨🏻‍💻 I am Junior Software Engineer
 - 📫 How to reach me: https://www.linkedin.com/in/otis-parsons/
 
