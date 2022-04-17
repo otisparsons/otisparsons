@@ -10,7 +10,8 @@
 - React
 - Javascript
 - GoLang
-- CSS & HTML
+- HTML
+- CSS
           
 
 
