@@ -1,17 +1,28 @@
-### Hi 👋, 
+### I'm Otis, 
 
-- 👨🏻‍💻 I am a Software Engineer
-- 🐙 Currently working full time at Octopus 
-- 📫 How to reach me: https://www.linkedin.com/in/otis-parsons/
+- 👨🏻‍💻 I'm a Software Engineer with a Finance, Product and Operations background. 
+- 🐙 Currently working full time at Octopus Money
+-  📫 You can reach me here: https://www.linkedin.com/in/otis-parsons/
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Proficient at:</h3>
 
-- Typescript
-- React
-- Javascript
-- GoLang
-- HTML
-- CSS
+Typescript |
+React |
+Javascript |
+HTML |
+CSS 
+
+<h3 align="left">Learning:</h3>
+
+Python |
+Next.JS |
+Thinking Fullstack |
+The Complete Software Lifecycle
+
+
+
+
+
           
 
 
