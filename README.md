@@ -4,7 +4,7 @@
 - 🐙 Currently working full time at Octopus Money
 -  📫 You can reach me here: https://www.linkedin.com/in/otis-parsons/
 
-<h3 align="left">Proficient at:</h3>
+<h3 align="left">Proficient:</h3>
 
 Typescript |
 React |
